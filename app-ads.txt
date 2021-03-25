@@ -1,1 +1,4 @@
-google.com, pub-7121722850857902, DIRECT, f08c47fec0942fa0
+appodeal.com, 123402, DIRECT
+google.com, pub-4398948761602844, DIRECT, f08c47fec0942fa0
+unity3d.com, 1019584, RESELLER, 96cabb5fbdde37a7
+unity3d.com, 1004715, RESELLER, 96cabb5fbdde37a7
